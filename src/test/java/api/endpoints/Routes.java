@@ -9,7 +9,7 @@ package api.endpoints;
  * delete user (delete) : https://petstore.swagger.io/v2/user/{username}
  */
 
-// Hello everyone this is routes.java
+// Hello everyone!
 
 public class Routes {
 	
